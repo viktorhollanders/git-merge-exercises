@@ -1,2 +1,4 @@
 a new line in the doc
 this is a divergant change to hello.txt
+this is a try 2 of divergant change to hello.txt
+This is a change in the main branch.
